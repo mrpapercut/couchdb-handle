@@ -1,6 +1,6 @@
 <?php
 
-class CouchDBModel {
+class CouchDB {
 	public function __construct () {
 		$this->urlprefix = 'localhost:5984';
 	}
